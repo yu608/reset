@@ -1,0 +1,1 @@
+{ "posts": [ { "id": 1, "title": "Hello World", "body": "This is my first post" }, { "id": 2, "title": "Another Post", "body":"This is another post" } ], "comments": [ { "id": 1, "postId": 1, "body": "Great post!" }, { "id": 2, "postId": 1, "body":"Thanks for sharing!" } ] }
